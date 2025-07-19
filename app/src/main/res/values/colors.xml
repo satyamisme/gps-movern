@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color (main accent) -->
+    <color name="primary">#0D9276</color>
+    <color name="onPrimary">#FFFFFF</color>
+
+    <!-- Secondary color (used for secondary accents) -->
+    <color name="secondary">#637A9F</color>
+    <color name="onSecondary">#FFFFFF</color>
+
+    <!-- Tertiary color (used for highlights or special elements) -->
+    <color name="tertiary">#AE445A</color>
+    <color name="onTertiary">#FFFFFF</color>
+
+    <!-- Background colors -->
+    <color name="background">#F3F4F6</color>
+    <color name="onBackground">#111827</color>
+
+    <!-- Surface colors (cards, containers, etc.) -->
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#1F2937</color>
+
+    <!-- Error colors -->
+    <color name="error">#F95454</color>
+    <color name="onError">#FFFFFF</color>
+
+    <!-- Outline and border colors -->
+    <color name="outline">#D1D5DB</color>
+
+    <!-- Info color (for informational messages) -->
+    <color name="info">#0EA5E9</color>
+
+    <!-- Warning color (for warnings) -->
+    <color name="warning">#F59E0B</color>
+
+    <!-- Success color (for success states) -->
+    <color name="success">#22C55E</color>
+</resources>

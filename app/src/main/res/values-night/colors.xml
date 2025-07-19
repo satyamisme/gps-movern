@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color (main accent for dark theme) -->
+    <color name="primary">#4C585B</color>
+    <color name="onPrimary">#FFFFFF</color>
+
+    <!-- Secondary color (used for secondary accents in dark theme) -->
+    <color name="secondary">#7D9770</color>
+    <color name="onSecondary">#FFFFFF</color>
+
+    <!-- Tertiary color (used for highlights or special elements in dark theme) -->
+    <color name="tertiary">#C97B5C</color>
+    <color name="onTertiary">#000000</color>
+
+    <!-- Background colors (dark background) -->
+    <color name="background">#121212</color>
+    <color name="onBackground">#E1E1E1</color>
+
+    <!-- Surface colors (cards, containers, etc. in dark theme) -->
+    <color name="surface">#232728</color>
+    <color name="onSurface">#F5F5F5</color>
+
+    <!-- Error colors (dark theme) -->
+    <color name="error">#D65A5A</color>
+    <color name="onError">#000000</color>
+
+    <!-- Outline and border colors (dark theme) -->
+    <color name="outline">#5C6669</color>
+
+    <!-- Info color (for informational messages in dark theme) -->
+    <color name="info">#5A9CA8</color>
+
+    <!-- Warning color (for warnings in dark theme) -->
+    <color name="warning">#E8B144</color>
+
+    <!-- Success color (for success states in dark theme) -->
+    <color name="success">#6DA984</color>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "857781842874",
+    "project_id": "gps-mover",
+    "storage_bucket": "gps-mover.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857781842874:android:ea405a68d794c6e3d72383",
+        "android_client_info": {
+          "package_name": "com.hamham.gpsmover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857781842874-2h9sa7i0ul7pjk35nrspf0404me0eh6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamham.gpsmover",
+            "certificate_hash": "eb8ee8e549c41393411091d840758a3849c68ac4"
+          }
+        },
+        {
+          "client_id": "857781842874-p73tfn34n2d23fke2f8hltrcubps8o9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN-LaOjaOVYiaqcdlZnZrqofmqwie-qic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857781842874-p73tfn34n2d23fke2f8hltrcubps8o9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

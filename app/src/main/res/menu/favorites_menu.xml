@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_export"
+        android:title="Export Favorites"
+        android:icon="@drawable/ic_export">
+        <menu>
+            <item
+                android:id="@+id/action_export_account"
+                android:title="Export to Account"
+                android:icon="@drawable/ic_baseline_email_24" />
+            <item
+                android:id="@+id/action_export_device"
+                android:title="Export to Device"
+                android:icon="@drawable/ic_export" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_import"
+        android:title="Import Favorites"
+        android:icon="@drawable/ic_import">
+        <menu>
+            <item
+                android:id="@+id/action_import_account"
+                android:title="Import from Account"
+                android:icon="@drawable/ic_baseline_email_24" />
+            <item
+                android:id="@+id/action_import_device"
+                android:title="Import from Device"
+                android:icon="@drawable/ic_import" />
+        </menu>
+    </item>
+</menu> 
